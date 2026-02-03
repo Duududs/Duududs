@@ -1,56 +1,63 @@
-<h1 align="center">✨ Hi, eu sou a Duds ✨</h1>
-
 <p align="center">
-  Estudante de Front-end em constante aprendizado 🚀
+  <img src="assets/welcome.png" width="900" alt="Welcome banner"/>
+</p>
+
+<h1 align="center">⋆ 𐙚˚࿔ Hi, I'm Duds 𝜗𝜚˚⋆</h1>
+<h3 align="center">Front-end student </h3>
+
+
+
+
+---
+
+### About Me ✮⋆˙
+
+<p >
+I'm a front-end student in constant learning.  
+I have a strong passion for technology and I'm always looking to evolve, improve my skills and grow in the area.</p>
+
+<p >
+I believe that learning by doing and documenting my journey is the best way to become a better developer every day ♡♡
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
-<img align="right" src="assets/avatar.png" width="180" alt="Avatar da Duds"/>
+### Connect with me ✌︎㋡
 
-Sou estudante de front-end em constante aprendizado.  
-Tenho paixão por tecnologia e estou sempre buscando evoluir, aprimorar meus conhecimentos e crescer na área.
 
-Acredito que aprender na prática e documentar minha evolução é a melhor forma de me tornar uma desenvolvedora cada vez melhor 💻💙
-
----
-
-## 🌐 Conecte-se comigo
-<img align="right" src="assets/star.png" width="140" alt="Ícone de estrela"/>
-
-- 📧 **E-mail:** duududs.dn@gmail.com  
-- 💼 **LinkedIn:** [maria-eduardadn](https://www.linkedin.com/in/maria-eduardadn)  
-- 🎧 **Spotify:** [Meu perfil](https://open.spotify.com/user/76ot96uc6uypzyziww9ms50hz?si=52ecfa1310344f09)
-
----
-
-## 📊 GitHub Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <a href="mailto:duududs.dn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maria-eduardadn">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/76ot96uc6uypzyziww9ms50hz?si=52ecfa1310344f09">
+    <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
-> 🔧 Substitua `SEU_USUARIO` pelo seu username do GitHub.
 
 ---
 
-## 🛠️ Languages & tools I have placed my hands on
+### My Journey 𖹭.ᐟ
+- Studying Front-end development
+- Practicing with real projects
+- Improving logic and UI skills
+- Building a solid foundation in web development
+
+
+---
+
+### Languages & Tools I Have Placed My Hands On
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,notion" />
 </p>
+
 
 ---
 
 <p align="center">
-✨ Repositório em constante evolução ✨  
+This profile is a reflection of my learning journey ᯓ★
 </p>
